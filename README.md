@@ -32,6 +32,6 @@ DB_URL=
 - Run mongod in another terminal and node app.js in the terminal with the project.
 - Then go to localhost:3000.
  
- or 
+## Others:
  
  **Click on this link to see my version deployed on heroku:https://morning-lake-75784.herokuapp.com/**
