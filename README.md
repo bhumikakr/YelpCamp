@@ -23,12 +23,14 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap.Passport
 - npm -init to create node_modules.
 - Create a .env file in the root of the project and add the following:
 
-```SECRET=
+```
+SECRET=
 CLOUDINARY_CLOUD_NAME= 
 CLOUDINARY_KEY= 
 CLOUDINARY_SECRET=
 DB_URL=
 MAPBOX_TOKEN=
+
 ```
 - Run mongod in another terminal and node app.js or npx nodemon app.js in the terminal with the project.
 - Then go to localhost:3000.
