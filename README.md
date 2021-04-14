@@ -18,10 +18,10 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap.Passport
 - Install mongodb.
 - Create a cloudinary account to get an API key and secret code.
 - git clone https://github.com/bhumikakr/YelpCamp.git
-- cd yelpcamp
+- cd YelpCamp
 - npm install node
-- npm -init 
-- Create a .env file (or just export manually in the terminal) in the root of the project and add the following:
+- npm -init to create node_modules.
+- Create a .env file in the root of the project and add the following:
 
 ```SECRET=
 CLOUDINARY_CLOUD_NAME= 
