@@ -28,6 +28,7 @@ CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_KEY= 
 CLOUDINARY_SECRET=
 DB_URL=
+MAPBOX_TOKEN=
 ```
 - Run mongod in another terminal and node app.js or npx nodemon app.js in the terminal with the project.
 - Then go to localhost:3000.
