@@ -32,4 +32,4 @@ DB_URL=
  
  or 
  
- **Click on this link:**
+ **Click on this link to see my version deployed on heroku:https://morning-lake-75784.herokuapp.com/**
