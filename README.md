@@ -17,7 +17,7 @@ Yet to add clustermaps and other features.
 
 ## To Run It Locally:
 - Install mongodb.
-- Create a cloudinary account to get an API key and secret code.
+- Create a cloudinary account to get an API key and secret code.Also mongodb atlas account to get database url.
 - git clone https://github.com/bhumikakr/YelpCamp.git
 - cd YelpCamp
 - npm install node
