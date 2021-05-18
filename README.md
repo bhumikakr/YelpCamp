@@ -10,7 +10,7 @@ Yet to add clustermaps and other features.
 
 ## Advantages:
 
-- Users can create, edit, and remove campgrounds.
+- Users can create, edit, and remove campgrounds or standard CRUD operations.
 - Users can review campgrounds once, and edit or remove their review.
 - User profiles include information of the user (full name, email), their campgrounds, and the option to edit their profile or delete their account
 
